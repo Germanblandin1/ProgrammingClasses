@@ -35,20 +35,20 @@ Class02 - Representacion en estructuras de datos
     Registros
     Clases y Programacion orientada a objetos
 
-Class0 - Complejidad en tiempo y memoria
+Class03 - Complejidad en tiempo y memoria
     Calculo de memoria estimado en terminos de N
     Calculo de tiempo estimado en terminos de N
     Peor caso BigO
 
-Class02 - Algoritmos de ordenamiento 1
+Class0 - Algoritmos de ordenamiento 1
     Selection sort 
     BubbleSort
 
-Class03 - Algoritmos de busqueda 1
+Class0 - Algoritmos de busqueda 1
     Busqueda lineal
     Busqueda Binaria
 
-Class04 - Recursividad 1
+Class0 - Recursividad 1
     Recursividad
     Algoritmos recursivos
 
@@ -81,7 +81,7 @@ Class0 - Recursividad 2
     Backtraking
     Tecnicas de optimizacion.
 
-Class10 - Arboles (Definicion e implementacion)
+Class - Arboles (Definicion e implementacion)
     Binarios
     Binarios de Busqueda
     General
@@ -93,11 +93,11 @@ Class0 - STL de c++ 2
     Map
     Unordered Map
 
-Class11 - Grafos (Definicion e implementacion)
+Class - Grafos (Definicion e implementacion)
     Matriz de Adyancencia
     Listas de Adyacencias
 
-Class12 - Algoritmos sobre grafos
+Class - Algoritmos sobre grafos
     BFS
     DFS
     Disjktra
